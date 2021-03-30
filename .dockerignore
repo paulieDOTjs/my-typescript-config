@@ -1,0 +1,12 @@
+*
+
+!src/*
+!public/*
+!package.json
+!tsconfig.json
+!yarn.lock
+!.env
+!.eslintignore
+!.eslintrc.json
+!.prettierignore
+!.prettierrc
